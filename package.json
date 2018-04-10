@@ -1,0 +1,17 @@
+{
+  "name": "bliss_destination",
+  "version": "1.0.0",
+  "description": "travel agency",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "agency"
+  ],
+  "author": "Curdarious Bell",
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^1.0.0-beta"
+  }
+}
